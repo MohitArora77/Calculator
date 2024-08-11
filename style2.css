@@ -1,0 +1,25 @@
+.text-center{
+    text-align:center;
+}
+.bg{
+    background-color: rgb(51, 115, 212);
+    border-radius: 9%;
+    border:4px solid black ;
+}
+.mx{
+    margin:auto;
+}
+.mxw{
+    max-width: 25vw;
+}
+.f{
+    display: flex;
+
+}
+.fcol{
+    flex-direction: column;
+
+}
+.item_center{
+    align-items:center;
+}
